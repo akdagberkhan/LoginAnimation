@@ -1,6 +1,3 @@
-
-Lottie ile Login Animasyonu
-
 # Proje Amacı
 
 Giriş ekranında daha hoş ve kullanıcı için daha çekici bir görüntü oluşturmak için animasyon kullanmak.
