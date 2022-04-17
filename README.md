@@ -14,6 +14,7 @@ Text ve Animasyon nesnelerimin X ve Y eksenlerinde Hareketini sağlamak için a�
  `lottieAnimationView.animate().translationY(-4000).setDuration(4500).setStartDelay(2300);`
  
  Json olarak indirdiğim animasyon dosyamı kullanmak için LottieAnimationView nesnesini xml tarafında kodlarıma ekledim;
+ 
 ` <com.airbnb.lottie.LottieAnimationView
         android:id="@+id/animationView"
         android:layout_width="250dp"
@@ -26,7 +27,10 @@ Text ve Animasyon nesnelerimin X ve Y eksenlerinde Hareketini sağlamak için a�
         app:lottie_loop="true"
         app:lottie_rawRes="@raw/loginanimation" />
  `
+ 
+ 
  Daha sonra onCreate methodu başladıktan sonra 4 Saniye bekleyip ikinci aktivite mi başlatmak için aşağıda ki kodlarımmı kullandım;
+ 
  `new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
