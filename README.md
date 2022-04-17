@@ -26,6 +26,10 @@ Text ve Animasyon nesnelerimin X ve Y eksenlerinde Hareketini sağlamak için a�
         }, 4000);`
 
 ## Bazı Görüntüler
--
+-Anasayfa  
+![Anasayfa](https://i.hizliresim.com/dnhdksz.JPG)
+
+-Gönderi Paylaş  
+![Gönderi Paylaş](https://i.hizliresim.com/q2plhpe.JPG)
 
 
