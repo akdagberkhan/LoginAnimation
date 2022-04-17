@@ -1,5 +1,5 @@
-# LoginAnimation
-Android Lottie ile Login Animasyonu
+
+Lottie ile Login Animasyonu
 
 # Proje Amacı
 
