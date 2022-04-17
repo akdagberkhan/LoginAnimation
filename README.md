@@ -3,7 +3,7 @@ Android Lottie ile Login Animasyonu
 
 # Proje Amacı
 
-Giriş ekranında daha hoş ve kullanıcı için daha çekici bir görüntü oluşturmak iççiçn animasyon kullanmak.
+Giriş ekranında daha hoş ve kullanıcı için daha çekici bir görüntü oluşturmak için animasyon kullanmak.
 
 ## Kullanılan Kütüphaneler
 
@@ -13,7 +13,7 @@ Giriş ekranında daha hoş ve kullanıcı için daha çekici bir görüntü olu
 
 Lottie(https://lottiefiles.com) sitesinden indirmiş olduğum json formatında ki animasyonumu kullanmak için yuakrıda belirttiğim kütüphaneyi kullandım.
 
-Text ve Animasyon nesnelerimin X ve Y eksenlerinde Hareketini sağlamak için aşağda ki kod dizilimini kullandım;
+Text ve Animasyon nesnelerimin X ve Y eksenlerinde Hareketini sağlamak için aşağıdaki kod dizilimini kullandım;
  `lottieAnimationView.animate().translationY(-4000).setDuration(4500).setStartDelay(2300);`
  
  Daha sonra onCreate methodu başladıktan sonra 4 Saniye bekleyip ikinci aktivite mi başlatmak için aşağıda ki kodlarımmı kullandım;
