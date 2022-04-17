@@ -41,8 +41,8 @@ Text ve Animasyon nesnelerimin X ve Y eksenlerinde Hareketini sağlamak için a�
  
  Daha sonra onCreate methodu başladıktan sonra 4 Saniye bekleyip ikinci aktivite mi başlatmak için aşağıda ki kodlarımmı kullandım;
  
- `
- new Handler().postDelayed(new Runnable() { 
+ ` new Handler().postDelayed(new Runnable() { 
+ 
             @Override
             public void run() {
             
