@@ -27,6 +27,6 @@ Text ve Animasyon nesnelerimin X ve Y eksenlerinde Hareketini sağlamak için a�
 
 ## Bazı Görüntüler
 -
-![Start](https://i.hizliresim.com/2pby4fk.png)
+![Start](https://i.hizliresim.com/2pby4fk.png) ![Login](https://i.hizliresim.com/dq8t8il.png)
 -
-![Login](https://i.hizliresim.com/dq8t8il.png)
+
