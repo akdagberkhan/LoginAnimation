@@ -18,7 +18,6 @@ Text ve Animasyon nesnelerimin X ve Y eksenlerinde Hareketini sağlamak için a�
 ` 
 
 <com.airbnb.lottie.LottieAnimationView
-
         android:id="@+id/animationView"
         
         android:layout_width="250dp"
@@ -45,8 +44,7 @@ Text ve Animasyon nesnelerimin X ve Y eksenlerinde Hareketini sağlamak için a�
  
  `
  
- new Handler().postDelayed(new Runnable() {
- 
+ new Handler().postDelayed(new Runnable() { 
             @Override
             public void run() {
             
